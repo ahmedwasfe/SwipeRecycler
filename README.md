@@ -4,10 +4,6 @@ SwipeRecyclerView
 
 ![](swiperecyclerviewdscr.gif)
 
-![](device-2020-04-21-164647.png) ![](device-2020-04-21-164716.png) ![](device-2020-04-21-164733.png)
-
-
-
 
 
   	allprojects {
