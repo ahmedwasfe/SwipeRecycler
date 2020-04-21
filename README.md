@@ -13,7 +13,11 @@ SwipeRecyclerView
 	}
 
 
-RecyclerView recyclerView = findViewById(R.id.recycler_view);
+
+
+# Docs
+
+	RecyclerView recyclerView = findViewById(R.id.recycler_view);
 
         SwipeRecyclerViewHelper swipeRecyclerViewHelper = new SwipeRecyclerViewHelper(
                 this, recyclerView, 200) {
