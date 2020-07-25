@@ -1,6 +1,11 @@
 # SwipeRecycler
 SwipeRecyclerView
 
+
+![](swiperecyclerviewdscr.gif)
+
+
+
   	allprojects {
 		repositories {
 			...
