@@ -14,7 +14,7 @@ SwipeRecyclerView
 	}
   
     dependencies {
-	        implementation 'com.github.ahmedwasfe:SwipeRecycler:1.0'
+	         implementation 'com.github.ahmedwasfe:SwipeRecycler:1.1'
 	}
 
 
