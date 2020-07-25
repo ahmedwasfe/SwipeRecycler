@@ -78,7 +78,7 @@ public abstract class SwipeRecyclerViewHelper extends ItemTouchHelper.SimpleCall
 
     public SwipeRecyclerViewHelper(Context mContext, RecyclerView mRecyclerView, int btnWidth) {
 
-        super(0, ItemTouchHelper.LEFT);
+        super(0, ItemTouchHelper.START);
         this.mRecyclerView = mRecyclerView;
         this.mListMButton = new ArrayList<>();
         this.mGestureDetector = new GestureDetector(mContext, gestureListener);
